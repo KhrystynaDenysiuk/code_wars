@@ -16,4 +16,4 @@
 
 const summation = (num) => (num * (num + 1)) / 2;
 
-console.log("fun", summation(8));
+console.log(summation(8));
